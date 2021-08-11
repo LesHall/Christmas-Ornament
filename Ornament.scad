@@ -1,8 +1,12 @@
-//include <../../lib/BOSL/constants.scad>;
-//include <../../lib/BOSL/transforms.scad>;
+// 
 
 
-$fn = 20;
+include <../lib/BOSL/constants.scad>
+use <../lib/BOSL/transforms.scad>
 
 
-sphere();
+$fn = 40;
+
+
+sphere(10);
+
