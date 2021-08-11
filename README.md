@@ -1,5 +1,5 @@
 # Christmas-Ornament
 Holiday / Christmas ornament.
 
-A Christmas ornament to hang on thetree.  
+A Christmas ornament to hang on the tree.  
 
